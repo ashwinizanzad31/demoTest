@@ -1,4 +1,4 @@
-node{
+pipeline{
   stage ('Clean') {
 
     git credentialsId: 'Github', url: 'https://github.com/ashwinizanzad31/demo.git'
