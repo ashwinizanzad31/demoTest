@@ -1,4 +1,5 @@
 pipeline{
+  stages {
   stage ('Clean') {
 
     git credentialsId: 'Github', url: 'https://github.com/ashwinizanzad31/demo.git'
@@ -23,5 +24,6 @@ pipeline{
   
    stage('Deploy'){
       echo('Deploying Code') 
+  }
   }
 }
