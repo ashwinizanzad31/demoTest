@@ -30,7 +30,7 @@
         <configuration>
           <forkCount>0</forkCount>
           <suiteXmlFiles>
-            <suiteXmlFile>/Users/Ashwini/eclipse-workspace/demo/config/TestNg.xml</suiteXmlFile>
+            <suiteXmlFile>config/TestNg.xml</suiteXmlFile>
           </suiteXmlFiles>
         </configuration>
       </plugin>
