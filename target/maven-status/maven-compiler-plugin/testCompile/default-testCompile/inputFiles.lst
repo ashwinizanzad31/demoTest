@@ -1,6 +1,7 @@
-/Users/Ashwini/eclipse-workspace/demo/src/test/java/Pages/TshirtPage.java
-/Users/Ashwini/eclipse-workspace/demo/src/test/java/Utils/BrowserLaunch.java
-/Users/Ashwini/eclipse-workspace/demo/src/test/java/Pages/HomePage.java
-/Users/Ashwini/eclipse-workspace/demo/src/test/java/TestCases/SampleTestCases.java
-/Users/Ashwini/eclipse-workspace/demo/src/test/java/Pages/SummaryCheckoutPage.java
-/Users/Ashwini/eclipse-workspace/demo/src/test/java/Pages/LoginPage.java
+/Users/Ashwini/Documents/BenchTask/demo/src/test/java/Pages/AccountPage.java
+/Users/Ashwini/Documents/BenchTask/demo/src/test/java/Utils/BrowserLaunch.java
+/Users/Ashwini/Documents/BenchTask/demo/src/test/java/Pages/ProductDetailsPage.java
+/Users/Ashwini/Documents/BenchTask/demo/src/test/java/Pages/SummaryCheckoutPage.java
+/Users/Ashwini/Documents/BenchTask/demo/src/test/java/TestCases/SampleTestCases.java
+/Users/Ashwini/Documents/BenchTask/demo/src/test/java/Pages/HomePage.java
+/Users/Ashwini/Documents/BenchTask/demo/src/test/java/Pages/LoginPage.java
