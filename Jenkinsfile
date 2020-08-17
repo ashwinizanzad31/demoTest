@@ -25,13 +25,13 @@ steps{
   
    stage('Test'){
 steps{
- echo('Testing Code') 
+ echo('Testing Code ') 
 }
  }
   
    stage('Deploy'){
 steps{
-      echo('Deploying Code') 
+      echo('Deploying Code ') 
   }
 }
   }
