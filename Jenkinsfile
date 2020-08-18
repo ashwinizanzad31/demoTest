@@ -25,7 +25,8 @@ steps{
   
    stage('Test'){
 steps{
- echo('Testing Code ') 
+   echo('Testing Code ') 
+  build '	MyDotNetPipeline'
 }
  }
   
