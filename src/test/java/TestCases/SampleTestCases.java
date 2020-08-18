@@ -49,7 +49,7 @@ public class SampleTestCases {
 	  pg.selectProduct("Faded Short Sleeve T-shirts");
 	  pg.addProductToCartButton();
 
-	  Thread.sleep(1000);
+	  Thread.sleep(2000);
 	  
    }
   
